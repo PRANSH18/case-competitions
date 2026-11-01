@@ -5,7 +5,7 @@ Work from national case and analytics competitions during the PGDM at Great Lake
 | Result | Competition |
 |---|---|
 | **Winner** | The Founder's Dilemma 2026, Great Lakes Chennai |
-| **3rd place** | Shark Tank Campus Edition, with PetScape |
+| **3rd place** | Shark Tank Campus Edition, with PetScape (since evolved into PetScape PlayRoom) |
 | Participant | WWT Unravel 2025, Trilytics '25, The Fifth Move, Global Stride 2.0, Think Sprint S1, Crack-A-Case |
 
 ## The Founder's Dilemma 2026 (Winner)
@@ -26,13 +26,26 @@ Led a three-member team through two rounds and won.
 | [Round 1 deck (PDF)](founders-dilemma-2026/Founders_Dilemma_Round_1_Strategy.pdf) | The two-slide first-round recommendation |
 | [Supporting model (Excel)](founders-dilemma-2026/Founders_Dilemma_Supporting_Model.xlsx) | Unit economics, tariff sensitivity, cash cycle, segment sizing and route break-even |
 
-## Shark Tank Campus Edition: PetScape (3rd place)
+## Shark Tank Campus Edition: PetScape to PetScape PlayRoom (3rd place)
 
-**The pitch.** India has more than 35 million pet dogs and cats, and urban pets spend 12 to 16 hours a day indoors while their owners work. PetScape is a pet-safe VR headset with immersive content for cats and dogs that turns that idle time into structured play, training and calm.
+**The problem.** Urban Indian pet parents love their pets but work long hours in small apartments. They feel guilty leaving pets alone, daycare and boarding are expensive, and bored pets turn anxious or destructive.
 
-**The business.** Hardware at two price points (a ₹2,499 phone-powered rig and a ₹5,999 to ₹12,000 pro rig), a content subscription, and B2B licensing to pet hotels, daycares and vet clinics. The ask was ₹1.6 crore for 20%, at a ₹6.4 crore pre-money valuation.
+**Where it started.** Our first answer was PetScape, a pet-safe VR headset with immersive content for cats and dogs. It placed 3rd. The investor panel's questions then pushed us back to the user, and the headset did not hold up:
 
-[Pitch deck (PDF)](shark-tank-campus-edition/PetScape_Pitch_Deck.pdf): problem, solution, product, market sizing, go-to-market, revenue model, investment ask and unit economics.
+- **It amplified the guilt.** A screen on the pet's face is a digital babysitter, the opposite of what parents wanted to feel.
+- **It was hard to buy.** Hardware cost and safety concerns stood in the way of adoption.
+- **It was hard to build.** The technical hurdles were too high for a safe product every pet could use.
+
+It was a technology-first idea, not a user-first one.
+
+**Where it went.** PetScape PlayRoom projects an interactive world onto the room instead of strapping a screen to the pet. A shelf-top smart projector casts games such as chasing dots and virtual bugs onto the floor. An AI motion camera tracks play and wellness and streams a live pet-cam. A smart treat dispenser rewards successful play. Parents run it from anywhere through the Co-Pilot app, and a monthly subscription adds new games, training modules and wellness insights.
+
+The pivot came out of a full design thinking cycle (empathy map, point of view, two rounds of ideation, prototype and a validation plan with three testable hypotheses). The deck ends with footage of the PlayRoom working in a real home.
+
+| File | What it is |
+|---|---|
+| [PetScape PlayRoom deck (PDF)](shark-tank-campus-edition/PetScape_PlayRoom_Design_Thinking.pdf) | The evolved product: from the urban pet parent's problem to the PlayRoom system and how we would test it |
+| [Original PetScape pitch (PDF)](shark-tank-campus-edition/PetScape_Pitch_Deck.pdf) | The VR headset version we pitched at the competition |
 
 ## WWT Unravel 2025: recommendation system for Wings R Us
 
