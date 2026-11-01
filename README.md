@@ -5,7 +5,7 @@ Work from national case and analytics competitions during the PGDM at Great Lake
 | Result | Competition |
 |---|---|
 | **Winner** | The Founder's Dilemma 2026, Great Lakes Chennai |
-| **3rd place** | Shark Tank Campus Edition |
+| **3rd place** | Shark Tank Campus Edition, with PetScape |
 | Participant | WWT Unravel 2025, Trilytics '25, The Fifth Move, Global Stride 2.0, Think Sprint S1, Crack-A-Case |
 
 ## The Founder's Dilemma 2026 (Winner)
@@ -25,6 +25,14 @@ Led a three-member team through two rounds and won.
 | [Final round deck (PDF)](founders-dilemma-2026/Founders_Dilemma_Final_Round_GTM_Strategy.pdf) | 12-slide go-to-market strategy: diagnosis, channel economics, four-phase roadmap, distributor negotiation and risk |
 | [Round 1 deck (PDF)](founders-dilemma-2026/Founders_Dilemma_Round_1_Strategy.pdf) | The two-slide first-round recommendation |
 | [Supporting model (Excel)](founders-dilemma-2026/Founders_Dilemma_Supporting_Model.xlsx) | Unit economics, tariff sensitivity, cash cycle, segment sizing and route break-even |
+
+## Shark Tank Campus Edition: PetScape (3rd place)
+
+**The pitch.** India has more than 35 million pet dogs and cats, and urban pets spend 12 to 16 hours a day indoors while their owners work. PetScape is a pet-safe VR headset with immersive content for cats and dogs that turns that idle time into structured play, training and calm.
+
+**The business.** Hardware at two price points (a ₹2,499 phone-powered rig and a ₹5,999 to ₹12,000 pro rig), a content subscription, and B2B licensing to pet hotels, daycares and vet clinics. The ask was ₹1.6 crore for 20%, at a ₹6.4 crore pre-money valuation.
+
+[Pitch deck (PDF)](shark-tank-campus-edition/PetScape_Pitch_Deck.pdf): problem, solution, product, market sizing, go-to-market, revenue model, investment ask and unit economics.
 
 ## WWT Unravel 2025: recommendation system for Wings R Us
 
