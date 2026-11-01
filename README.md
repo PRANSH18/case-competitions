@@ -2,6 +2,30 @@
 
 Work from national case and analytics competitions during the PGDM at Great Lakes Institute of Management, Chennai.
 
+| Result | Competition |
+|---|---|
+| **Winner** | The Founder's Dilemma 2026, Great Lakes Chennai |
+| **3rd place** | Shark Tank Campus Edition |
+| Participant | WWT Unravel 2025, Trilytics '25, The Fifth Move, Global Stride 2.0, Think Sprint S1, Crack-A-Case |
+
+## The Founder's Dilemma 2026 (Winner)
+
+**The case.** GlobalCraft, a premium Indian stationery brand, earns 60% of its revenue in the US through a single legacy distributor. The partner opens doors to the major chains but takes 20 margin points and traps cash for months. Management framed it as stay or leave.
+
+**The answer.** Neither. The US is not one market: the major chains are contractually barred from buying direct, but independent retailers are not. So keep the distributor for the chains, build a direct route to the independents, and fund the build by fixing cash first.
+
+- **The economics were misread.** The distributor takes $20 of every $100 of retail. The new 10% tariff takes $2.25. Management was fighting a number nine times smaller than the real one.
+- **The plan funds itself.** Shipping and invoicing the ready 90% of each order cuts the cash cycle from about 105 days to about 30, with no new equity.
+- **Nothing is irreversible.** The distributor keeps every account it holds today, so the worst case is a return to the status quo.
+
+Led a three-member team through two rounds and won.
+
+| File | What it is |
+|---|---|
+| [Final round deck (PDF)](founders-dilemma-2026/Founders_Dilemma_Final_Round_GTM_Strategy.pdf) | 12-slide go-to-market strategy: diagnosis, channel economics, four-phase roadmap, distributor negotiation and risk |
+| [Round 1 deck (PDF)](founders-dilemma-2026/Founders_Dilemma_Round_1_Strategy.pdf) | The two-slide first-round recommendation |
+| [Supporting model (Excel)](founders-dilemma-2026/Founders_Dilemma_Supporting_Model.xlsx) | Unit economics, tariff sensitivity, cash cycle, segment sizing and route break-even |
+
 ## WWT Unravel 2025: recommendation system for Wings R Us
 
 **The brief.** Recommend the right last-minute items at checkout to lift average order value and retention for a US chicken-wings chain, measured on Recall@3.
